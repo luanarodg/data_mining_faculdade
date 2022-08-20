@@ -3,5 +3,7 @@
 
 Repositório feito para armazenar as atividades feita durante a matéria.
 
+
+
 * Consumo de álcool entre estudantes;
-   * Análise de dados feita para entender como o consumo de álcool entre estudantes do ensino médio afetam sua performance na matéria de lingua portuguesa
+   * Análise de dados feita para entender como o consumo de álcool entre estudantes do ensino médio de Portugal afetam sua performance na matéria de lingua portuguesa, com uma base de dados extraída do Kaggle.
